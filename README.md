@@ -24,7 +24,7 @@
 <br>
 
 
-https://github.com/telsergio/CALCULADORA-SERGIO1/assets/132212879/3feeb56d-e257-458c-94d2-bb3dbeb22e70
+
 
 
 ## 📹 Apresentação em Vídeo do Projeto
